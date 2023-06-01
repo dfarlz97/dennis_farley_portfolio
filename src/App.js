@@ -10,7 +10,7 @@ function App() {
         <br/>
       </nav>
       <Routes>
-        <Route path='/' exact="true" element={<Home />} />
+        <Route path='/Home' exact="true" element={<Home />} />
      </Routes>
     </div>
   );
