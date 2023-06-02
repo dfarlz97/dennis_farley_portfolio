@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dennis_farley_portfolio/precache-manifest.d03b388535efdceb89ba4e3c2e73ac55.js"
+  "/dennis_farley_portfolio/precache-manifest.8f3cb24cfb5ccbd19a6f0ffef531844a.js"
 );
 
 workbox.clientsClaim();
