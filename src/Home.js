@@ -1,5 +1,5 @@
 import React from 'react'
-
+import ProjectCard from './ProjectCard'
 export default function Home() {
 
   return (
@@ -14,9 +14,8 @@ export default function Home() {
         About me
       </h2>
       <p>Hello, my name is Dennis Farley and I am a full stack software developer living in New York City. </p>
-      <h2>
-        Projects
-      </h2>
+
+      <ProjectCard> </ProjectCard>
 
         </header>
      
