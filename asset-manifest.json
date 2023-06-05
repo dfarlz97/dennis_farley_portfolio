@@ -1,13 +1,15 @@
 {
-  "main.css": "/dennis_farley_portfolio/static/css/main.1ec8813e.chunk.css",
-  "main.js": "/dennis_farley_portfolio/static/js/main.b623913e.chunk.js",
-  "main.js.map": "/dennis_farley_portfolio/static/js/main.b623913e.chunk.js.map",
-  "static/js/1.1ebdbeff.chunk.js": "/dennis_farley_portfolio/static/js/1.1ebdbeff.chunk.js",
-  "static/js/1.1ebdbeff.chunk.js.map": "/dennis_farley_portfolio/static/js/1.1ebdbeff.chunk.js.map",
+  "main.css": "/dennis_farley_portfolio/static/css/main.a48b5b12.chunk.css",
+  "main.js": "/dennis_farley_portfolio/static/js/main.76b34992.chunk.js",
+  "main.js.map": "/dennis_farley_portfolio/static/js/main.76b34992.chunk.js.map",
+  "static/js/1.30d5becc.chunk.js": "/dennis_farley_portfolio/static/js/1.30d5becc.chunk.js",
+  "static/js/1.30d5becc.chunk.js.map": "/dennis_farley_portfolio/static/js/1.30d5becc.chunk.js.map",
   "runtime~main.js": "/dennis_farley_portfolio/static/js/runtime~main.f027c931.js",
   "runtime~main.js.map": "/dennis_farley_portfolio/static/js/runtime~main.f027c931.js.map",
-  "static/css/main.1ec8813e.chunk.css.map": "/dennis_farley_portfolio/static/css/main.1ec8813e.chunk.css.map",
+  "static/media/Snake.gif": "/dennis_farley_portfolio/static/media/Snake.cf4029bd.gif",
+  "static/media/logo.svg": "/dennis_farley_portfolio/static/media/logo.06e73328.svg",
+  "static/css/main.a48b5b12.chunk.css.map": "/dennis_farley_portfolio/static/css/main.a48b5b12.chunk.css.map",
   "index.html": "/dennis_farley_portfolio/index.html",
-  "precache-manifest.8f3cb24cfb5ccbd19a6f0ffef531844a.js": "/dennis_farley_portfolio/precache-manifest.8f3cb24cfb5ccbd19a6f0ffef531844a.js",
+  "precache-manifest.634a14870710400ebc66dadf12bb48d8.js": "/dennis_farley_portfolio/precache-manifest.634a14870710400ebc66dadf12bb48d8.js",
   "service-worker.js": "/dennis_farley_portfolio/service-worker.js"
 }
